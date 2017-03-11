@@ -1,0 +1,15 @@
+{
+  "name": "gulp-css2js",
+  "version": "1.0.0",
+  "description": "Change css to js in node server",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "mimi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
